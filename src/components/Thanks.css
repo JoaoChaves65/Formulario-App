@@ -17,6 +17,9 @@
 
 .review-data {
     text-align: left;
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
 }
 
 .review-data svg {
